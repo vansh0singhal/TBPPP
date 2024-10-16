@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#searchbar{
+    text-decoration: none;
+    color: grey;
+}
+.main{
+    
+
+background-image: url(mainimg.jpg);
+background-size: cover; 
+background-repeat: no-repeat; 
+background-position: center; 
+height: 500px;
+
+} 
+.navBar{
+    display: flex;
+}
+.rightcontainer1{
+    margin-right: auto;
+}
+.rightcontainer1>a{
+    text-decoration: none;
+
+    margin: 30px;
+    font-size: 15px;
+    color: grey;
+    
+    
+}
+.about{
+   
+    margin-top: 100px;
+   
+    width: 1000px;
+    height: 230px;
+    text-align: center;
+    margin-left: 270px;
+    padding: 20px;
+}
+#id1{
+    color: grey;
+}
+#id2{
+    margin-top:20px;
+    color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+#id3{
+    margin-top: 20px;
+    color: grey;
+    font-size: 20px;
+    text-align: left;
+}
+.conatiner3{
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.left3{
+    
+    width: 300px;
+   
+    margin-right: 180px;
+
+
+}
+.right3{
+    
+    width: 400px;
+    font-size: 18px;
+    color: grey;
+
+}
+#myname2{
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+}
+.left33{
+    margin-left: 90px;
+    
+}
+.headingcon{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(88, 83, 83);
+}
+
+.containerphoto{
+    
+    height: 20px;
+    width: 800px;
+    background-color: grey;
+}
+.innerphoto{
+    
+    height: 20px;
+    width: 700px;
+    background-color:rgba(0, 0, 0, 0.611);
+
+}
+.skills{
+    text-align: center;
+}
+
